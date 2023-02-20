@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281354130098",
+    "project_id": "wed-addams-wall-bangsin",
+    "storage_bucket": "wed-addams-wall-bangsin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281354130098:android:b09142ed65465a8ce72fab",
+        "android_client_info": {
+          "package_name": "com.deeeer_wallpaper.deeer_simulator.bangsindev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281354130098-ke9o9hl9oi52urobb1nfa89273jk06im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJpK8h9cCQFDnbNvfMj-mscTchgoHM4L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281354130098-ke9o9hl9oi52urobb1nfa89273jk06im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
