@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904422065880",
+    "project_id": "choo-choo-prank-bangsin",
+    "storage_bucket": "choo-choo-prank-bangsin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904422065880:android:c52cc29a316c66132379ad",
+        "android_client_info": {
+          "package_name": "com.choochoocharles.prankcall.bangsindev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904422065880-esu2349dfbrnvfoo577mbcve25epct3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIFUpkSuD4MfRoc5dmeYELvrIM0uf5n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904422065880-esu2349dfbrnvfoo577mbcve25epct3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
